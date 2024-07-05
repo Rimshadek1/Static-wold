@@ -36376,6 +36376,10 @@ button:focus {
   background-image: linear-gradient(120deg, #31BA77 10%, #38DA8B 100%);
 }
 
+.gradient-12 {
+  background-image: linear-gradient(120deg, #000000 10%, #000 100%);
+}
+
 .gradient-1.btn-outline-gradient,
 .gradient-1.btn-outline-gradient span {
   background-image: linear-gradient(rgba(var(--bs-white-rgb), 0), rgba(var(--bs-white-rgb), 0)), linear-gradient(120deg, #31BA77 10%, #ef3f6e 100%);
